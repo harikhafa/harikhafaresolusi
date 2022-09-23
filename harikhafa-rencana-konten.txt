@@ -3,3 +3,5 @@ RENCANA KONTEN HARIKHAFA
 - Javascript
   * javascript baru 
 - membuat absensi
+- ralavel
+- pyton
